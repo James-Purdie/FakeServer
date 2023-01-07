@@ -1,0 +1,36 @@
+{
+"events": [
+{
+  "id": 5928101,
+  "category": "animal-welfare",
+  "title": "Cat adoption day",
+  "description": "Find your new feline friend at this event.",
+  "location": "Meow Town Hall",
+  "date": "January 28, 2023",
+  "time": "12:00",
+  "petsAllowed": true,
+  "organiser": "Kat Laydee"
+},
+  {
+    "id": 4582797,
+    "category": "food",
+    "title": "Community gardening",
+    "description": "Hoin us as we tend to the community edible plants.",
+    "location": "Flora Gardens",
+    "date": "March 14, 2023",
+    "time": "10:00",
+    "petsAllowed": true,
+    "organiser": "Fern Pollen"
+  },
+  {
+    "id": 8419988,
+    "category": "sustainability",
+    "title": "Beach clean up",
+    "description": "Help pick up trash along the shore",
+    "location": "Browns Bay",
+    "date": "July 22, 2023",
+    "time": "09:00",
+    "petsAllowed": true,
+    "organiser": "Carey Whale"
+  }]
+}
